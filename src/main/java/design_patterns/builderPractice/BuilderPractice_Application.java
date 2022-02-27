@@ -6,7 +6,7 @@ import design_patterns.builderPractice.cars.Car;
 import design_patterns.builderPractice.cars.Manual;
 import design_patterns.builderPractice.director.Director;
 
-public class Demo {
+public class BuilderPractice_Application {
     public static void main(String[] args) {
         Director director = new Director();
         CarBuilder builder = new CarBuilder();
