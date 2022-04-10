@@ -1,4 +1,4 @@
-package design_patterns.builderPractice.ccomponents;
+package design_patterns.builderPractice.components;
 
 public enum Transmission {
     SINGLE_SPEED,

@@ -1,4 +1,4 @@
-package design_patterns.builderPractice.ccomponents;
+package design_patterns.builderPractice.components;
 
 public class GPSNavigator {
     private String route;

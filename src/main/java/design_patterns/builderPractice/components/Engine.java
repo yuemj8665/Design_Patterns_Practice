@@ -1,4 +1,4 @@
-package design_patterns.builderPractice.ccomponents;
+package design_patterns.builderPractice.components;
 
 public class Engine {
     private final double volume;

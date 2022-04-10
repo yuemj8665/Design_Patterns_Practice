@@ -6,7 +6,7 @@ import design_patterns.abstractFactoryPractice.factories.MacOSFactory;
 import design_patterns.abstractFactoryPractice.factories.WindowOSFactory;
 
 /**
- * Demo.javaj에서 모든거 모입니다.
+ * Demo.java 에서 모든거 모입니다.
  */
 public class AbstractFactoryPractice_Application {
     /**

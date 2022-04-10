@@ -2,10 +2,10 @@ package design_patterns.builderPractice.director;
 
 import design_patterns.builderPractice.builders.Builder;
 import design_patterns.builderPractice.cars.Cartype;
-import design_patterns.builderPractice.ccomponents.Engine;
-import design_patterns.builderPractice.ccomponents.GPSNavigator;
-import design_patterns.builderPractice.ccomponents.Transmission;
-import design_patterns.builderPractice.ccomponents.TripComputer;
+import design_patterns.builderPractice.components.Engine;
+import design_patterns.builderPractice.components.GPSNavigator;
+import design_patterns.builderPractice.components.Transmission;
+import design_patterns.builderPractice.components.TripComputer;
 
 public class Director {
     public void constructSportsCar(Builder builder) {

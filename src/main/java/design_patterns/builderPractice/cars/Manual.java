@@ -1,9 +1,9 @@
 package design_patterns.builderPractice.cars;
 
-import design_patterns.builderPractice.ccomponents.Engine;
-import design_patterns.builderPractice.ccomponents.GPSNavigator;
-import design_patterns.builderPractice.ccomponents.Transmission;
-import design_patterns.builderPractice.ccomponents.TripComputer;
+import design_patterns.builderPractice.components.Engine;
+import design_patterns.builderPractice.components.GPSNavigator;
+import design_patterns.builderPractice.components.Transmission;
+import design_patterns.builderPractice.components.TripComputer;
 
 public class Manual {
     private final Cartype cartype;

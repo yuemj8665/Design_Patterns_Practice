@@ -1,12 +1,11 @@
 package design_patterns.builderPractice.builders;
 
-import design_patterns.builderPractice.cars.Car;
 import design_patterns.builderPractice.cars.Cartype;
 import design_patterns.builderPractice.cars.Manual;
-import design_patterns.builderPractice.ccomponents.Engine;
-import design_patterns.builderPractice.ccomponents.GPSNavigator;
-import design_patterns.builderPractice.ccomponents.Transmission;
-import design_patterns.builderPractice.ccomponents.TripComputer;
+import design_patterns.builderPractice.components.Engine;
+import design_patterns.builderPractice.components.GPSNavigator;
+import design_patterns.builderPractice.components.Transmission;
+import design_patterns.builderPractice.components.TripComputer;
 
 /**
  * 다른 생성 패턴과 달리 Builder는 공통 인터페이스가 없는 관련 없는 제품을 구성할 수 있습니다.

@@ -1,10 +1,10 @@
 package design_patterns.builderPractice.builders;
 
 import design_patterns.builderPractice.cars.Cartype;
-import design_patterns.builderPractice.ccomponents.Engine;
-import design_patterns.builderPractice.ccomponents.GPSNavigator;
-import design_patterns.builderPractice.ccomponents.Transmission;
-import design_patterns.builderPractice.ccomponents.TripComputer;
+import design_patterns.builderPractice.components.Engine;
+import design_patterns.builderPractice.components.GPSNavigator;
+import design_patterns.builderPractice.components.Transmission;
+import design_patterns.builderPractice.components.TripComputer;
 
 /**
  * 빌더 인터페이스는 모든 가능한 방법을 정의한다.
